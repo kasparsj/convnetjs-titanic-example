@@ -9,3 +9,7 @@ This is javascript / convnetjs example of a classic machine learning task - to e
 2. `npm install`
 
 3. `node regression.js`
+
+# credits
+
+Training data was downloaded from Kaggle: https://www.kaggle.com/c/titanic
